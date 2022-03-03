@@ -13,9 +13,8 @@ This Datathon seeks to predict the prices of residential homes in Ames, Iowa, Un
 - test.csv: Test dataset.
 - data_description.txt: Full description of each column in the dataset.
 - example_output.csv: Reference dataset of the output that is intended to be generated as a result of the application of the regression model.
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/86995479/156483917-76ce7cf9-2abc-49b4-b53f-7a203963925d.png)
-</p>
 
 ## Instructions
 1. Perform data ingestion of the proposed files.
