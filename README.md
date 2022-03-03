@@ -1,7 +1,7 @@
 # Datathon-Coderhouse
 This Datathon took part during the last class of the Data Science Course at CODERHOUSE
 
-It will be carried out in groups in different breakout rooms. 
+It will be carried out in groups in different breakout rooms. The team I took part was composed of Paola Barrera and me.
 
 ### Estimated Time of Completion: **1 hour 30 minutes** 
 
