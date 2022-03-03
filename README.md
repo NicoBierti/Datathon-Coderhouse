@@ -1,7 +1,9 @@
 # Datathon-Coderhouse
 This Datathon took part during the last class of the Data Science Course at CODERHOUSE
 
-It will be carried out in groups in different breakout rooms.
+It will be carried out in groups in different breakout rooms. 
+
+### Estimated Time of Completion: **1 hour 30 minutes** 
 
 # Housing Prices
 This Datathon seeks to predict the prices of residential homes in Ames, Iowa, United States. To do this, the various concepts seen and studied throughout the Data Science course must be put into practice.
