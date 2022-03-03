@@ -14,6 +14,8 @@ This Datathon seeks to predict the prices of residential homes in Ames, Iowa, Un
 - data_description.txt: Full description of each column in the dataset.
 - example_output.csv: Reference dataset of the output that is intended to be generated as a result of the application of the regression model.
 
+![image](https://user-images.githubusercontent.com/86995479/156483917-76ce7cf9-2abc-49b4-b53f-7a203963925d.png)
+
 ## Instructions
 1. Perform data ingestion of the proposed files.
 2. Carry out an exploratory data analysis (EDA) with its corresponding interpretation and associated graphs.
@@ -27,5 +29,8 @@ This Datathon seeks to predict the prices of residential homes in Ames, Iowa, Un
 
 ## Objective
 For each Id in the test set, the value of the variable “SalePrice” must be predicted. The metric that will be used to evaluate the performance of the model should be the RMSE (Root-Mean-Squared-Error (RMSE).
+
+![image](https://user-images.githubusercontent.com/86995479/156483842-9d987af6-ba07-4260-ae1e-7b8fff6e8ea8.png)
+
 
 
